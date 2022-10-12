@@ -45,6 +45,7 @@ gem 'pg'
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
+gem 'devise'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
